@@ -7,6 +7,8 @@
     <h1><a style="text-decoration:none;" href="https://github.com/Devithor/myProjectsPython">Meus Projetos</a> - Python</h1>
   </div>
   <div class="container">
-    <h3>Repositório para exibir todos os meus projetos Python<h3>
+    <hr/>
+    <p>Repositório para exibir todos os meus projetos Python</p>
+      <hr/>
   </div>
 </div>
