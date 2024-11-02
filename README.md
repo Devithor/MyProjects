@@ -14,7 +14,7 @@ então se tiverem alguma dica por favor envie para: <em>vithorsabrs@gmail.com</e
   </div>
   <div class="listProjects">
     <ol>
-      <li><a href="</li>
+      <li><a href="https://github.com/Devithor/projectsPython/tree/main/CalculadoraCliPython">calculadoraCli</a> - Uma calculadora simples e funcional que pode ser utilizada no seu terminal.</li>
     </ol>
   </div>
 </div>
