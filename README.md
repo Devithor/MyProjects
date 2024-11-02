@@ -4,6 +4,6 @@
     <br/>
   </div>
   <div class="title">
-    <a href="https://github.com/Devithor/myProjectsPython"><h1>Meus Projetos</h1></a>
+    <h1><a style="text-decoration:none;" href="https://github.com/Devithor/myProjectsPython">Meus Projetos</a> - Python</h1>
   </div>
 </div>
