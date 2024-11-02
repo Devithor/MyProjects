@@ -1,5 +1,3 @@
-# MyProjects
-Repositório criado para exibir os meus projetos 
-
-##Seja bem-vindo
-
+<div style="align-items:center;">
+  <img src="https://images8.alphacoders.com/576/576872.jpg" alt="silicon valley">
+  
