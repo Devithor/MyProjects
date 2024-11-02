@@ -9,7 +9,12 @@
   <div class="container">
     <hr/>
     <p>🧑‍💻👋 Olá, bem-vindo ao meu repositório que exibi uma variedades de projetos em Python, atenção eu não me considero um profissional em python, pelo contrário agora que comecei o minha jornada em python,
-se tiverem alguma dica por favor envie para: <em>vithorsabrs@gmail.com</em>. Por favor tenham paciência em relação aos meu projetos porque eu programo pelo celular, então isso me limita muito, então é isso valeu 😸</p>
+então se tiverem alguma dica por favor envie para: <em>vithorsabrs@gmail.com</em>. Por favor tenham paciência em relação aos meu projetos porque eu programo pelo celular, então isso me limita muito, então é isso valeu😸</p>
       <hr/>
+  </div>
+  <div class="listProjects">
+    <ol>
+      <li><a href="</li>
+    </ol>
   </div>
 </div>
