@@ -8,7 +8,7 @@
   </div>
   <div class="container">
     <hr/>
-    <p style="width:100%; text-align:center;">Repositório para exibir todos os meus projetos Python</p>
+    <p>Repositório para exibir todos os meus projetos Python</p>
       <hr/>
   </div>
 </div>
